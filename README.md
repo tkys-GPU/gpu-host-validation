@@ -9,6 +9,7 @@
 - PyTorch / TensorFlow: successfully tested
 - BandwidthTest: H2D = 24.1 GB/s, D2H = 26.3 GB/s (Gen4 x16, normal operation)
 - dmesg: no uncorrected/fatal errors (only AER notifications enabled)
+- PyTorch / TensorFlow successfully tested
 
 ## Log Files
 - [bandwidthTest_4080S_2025-08-24.log](logs/bandwidthTest_4080S_2025-08-24.log)
